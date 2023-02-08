@@ -10,7 +10,7 @@ html {
 /*! media queries  */
 @media only screen and (max-width: 576px) {
   html {
-    font-size: 40%;
+    font-size: 35%;
   }
   .logo {
     width: 20rem;
