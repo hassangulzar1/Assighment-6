@@ -13,24 +13,31 @@ html {
     font-size: 40%;
   }
   .logo {
-    width: 30rem;
-    height: 10rem;
+    width: 20rem;
   }
 }
-@media only screen and (min-width: 576px) and (max-width: 768px) {
+@media only screen and (min-width: 576px) and (max-width: 769px) {
   html {
     font-size: 40%;
   }
   .logo {
-    width: 25rem;
+    width: 20rem;
   }
 }
-@media only screen and (min-width: 768px) and (max-width: 992px) {
+@media only screen and (min-width: 769px) and (max-width: 992px) {
   html {
     font-size: 50%;
   }
   .logo {
-    width: 25rem;
+    width: 18rem;
+  }
+}
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  html {
+    font-size: 60%;
+  }
+  .logo {
+    width: 18rem;
   }
 }
 
