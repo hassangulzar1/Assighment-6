@@ -1,0 +1,16 @@
+.Hero-section {
+  margin-top: 10rem;
+}
+.hero-text h1 {
+  font-size: 6.9rem;
+  font-weight: 900;
+  font-family: "Playfair Display", serif;
+}
+.hero-text p {
+  font-weight: 500;
+  font-family: "Raleway", sans-serif;
+}
+.background-img {
+  background-image: url(../../Assets/background/floating_elements.png);
+  z-index: -1;
+}

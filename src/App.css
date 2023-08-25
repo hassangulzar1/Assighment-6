@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&family=Raleway&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-size: 62.5%;
+}
+/*! media queries  */
+@media only screen and (max-width: 576px) {
+  html {
+    font-size: 35%;
+  }
+  .logo {
+    width: 20rem;
+  }
+}
+@media only screen and (min-width: 576px) and (max-width: 769px) {
+  html {
+    font-size: 40%;
+  }
+  .logo {
+    width: 20rem;
+  }
+}
+@media only screen and (min-width: 769px) and (max-width: 992px) {
+  html {
+    font-size: 50%;
+  }
+  .logo {
+    width: 18rem;
+  }
+}
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  html {
+    font-size: 60%;
+  }
+  .logo {
+    width: 18rem;
+  }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {
+  html {
+    font-size: 65%;
+  }
+  .logo {
+    width: 20rem;
+  }
+}

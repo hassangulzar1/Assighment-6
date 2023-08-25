@@ -1,0 +1,17 @@
+.btn1-secondary {
+  font-family: "Raleway", sans-serif;
+  color: #4ba87d;
+  font-weight: 1000;
+  background-color: rgb(255, 255, 255);
+  font-size: 1.5rem;
+  letter-spacing: 0.2rem;
+  padding: 1.5rem 2.5rem;
+  border: 2px solid #4ba87d;
+}
+.btn1-secondary:hover {
+  transition: 0.3s ease-in;
+  transform: scale(0.9);
+  color: black;
+  background-color: rgb(237, 234, 234);
+  border: 1px solid white;
+}
