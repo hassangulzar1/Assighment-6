@@ -56,7 +56,7 @@ function AllCards() {
       </div>
       {/* <!-- !2nd cards section  --> */}
       <div className="container next-card-sec" id="Partners">
-        <div className="row text-center">
+        <div className="row text-center d-flex justify-content-center">
           <SecondCard
             detail={{
               text: "Frankie",
